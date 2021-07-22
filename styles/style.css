@@ -164,6 +164,9 @@ button:hover {
     width: 96%;
     height: 96%;
 }
+.history img {
+    width: 100%;
+}
 /* history section ends */
 
 /* footer starts */
