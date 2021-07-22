@@ -255,11 +255,11 @@ footer p {
         margin-bottom: 20px;
     }
     
-    .news .histories{
+    .news{
         grid-template-columns: 1fr 1fr;
     }
 
-    .news .news-box .histories .history{
+    .news .news-box {
         margin-bottom: 10px;
     }
 
