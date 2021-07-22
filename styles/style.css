@@ -103,6 +103,30 @@ button:hover {
     line-height: 26px;
 }
 
+/* history start */
+
+.history-heading{
+    color: #18191F;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.histories{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 15px;
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+}
+.history{
+    box-shadow: 0 1px 10px #C0C0C0;
+    border: 3px solid lightgray;
+    width: 96%;
+    height: 96%;
+}
+
 
 
 
